@@ -1,0 +1,5 @@
+[09-Nov-2022 13:55:10 Asia/Katmandu] PHP Warning:  require_once(/home/samir/Development/datingweb/_install/vendor/autoload.php): Failed to open stream: No such file or directory in /home/samir/Development/datingweb/_install/index.php on line 22
+[09-Nov-2022 13:55:12 Asia/Katmandu] PHP Fatal error:  Uncaught Error: Failed opening required '/home/samir/Development/datingweb/_install/vendor/autoload.php' (include_path='.:/usr/share/php') in /home/samir/Development/datingweb/_install/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/samir/Development/datingweb/_install/index.php on line 22
